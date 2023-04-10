@@ -39,7 +39,7 @@
   <tr>
     <td>Alfreds Futterkiste</td>
     <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>India</td>
   </tr>
   <tr>
     <td>Berglunds snabbköp</td>
