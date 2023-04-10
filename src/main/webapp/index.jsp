@@ -44,7 +44,7 @@
   <tr>
     <td>Berglunds snabbköp</td>
     <td>Christina Berglund</td>
-    <td>Sweden</td>
+    <td>AUS</td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
